@@ -29,7 +29,7 @@ com.intellij.properties.bundle.editor (223.7571.203)
 
 Kotlin: 223-1.8.0-release-345-IJ8617.56
 
-JavaFX SDK: JavaFX-SDK-19
+JavaFX SDK: JavaFX-SDK-17.0.01
 
 # How to Run:
 You must first install the necessary IDE and JavaFX applications to get going. 
@@ -42,7 +42,7 @@ The program has radio options to filter appointments and error-checking througho
 The "logout" button will return you to the login screen, while the "reports" button will send you to the reports page.
 
 # MySQL Connector Driver: 
-mysql-connector-java-8.0.32
+mysql-connector-java-8.0.25
 
 # Additional report:
 For the customized report, I decided to filter customers by their first level divisions.
